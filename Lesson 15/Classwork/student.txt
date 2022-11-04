@@ -1,0 +1,18 @@
+---Student No: 1---
+First Name: Jack
+Last Name: Orlains
+ID: 2020
+GPA: 99.000000
+
+---Student No: 2---
+First Name: Sam
+Last Name: Timmothy
+ID: 1234
+GPA: 60.000000
+
+---Student No: 3---
+First Name: Lead
+Last Name: Rungsten
+ID: 94
+GPA: 94.000000
+
